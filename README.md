@@ -1,5 +1,5 @@
 # IE616-Project
-##Three Men's Morris
+# Three Men's Morris
 
-###How to play:
+### How to play:
 
