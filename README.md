@@ -10,10 +10,7 @@ git clone https://github.com/Scriea/IE616-Project
 cd three-mens-morris-py
 python3 tmm.py
 ```
-3. Start the game  
-```
->>> select your difficulty
-```
+3. Select your difficulty
   a. Easy   b. Normal   c. Difficult
 
 4. Enter your moves:
