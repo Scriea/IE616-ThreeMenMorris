@@ -14,5 +14,11 @@ python3 tmm.py
   a. Easy   b. Normal   c. Difficult
 
 4. Enter your moves:
-  a. Placement phase:  Enter <col, row>
-  b. Movement phase: Enter <col1,row1,col2,row2>
+```
+  a. Placement phase:  Enter <col, row>    eg. a1, b3
+  b. Movement phase: Enter <col1,row1,col2,row2>    eg. a1a2 b1b2
+```
+Note: In movement phase you make sure that the cells are connected by a path.   
+
+
+### Have Fun ! 
