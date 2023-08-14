@@ -2,12 +2,12 @@
 
 ### How to play:
 1. Clone the repo  
-```
+```bash
 git clone https://github.com/Scriea/IE616-Project
 ```
 2. Run the code
-```
-cd three-mens-morris-py
+```bash
+cd IE6161-Project
 python3 tmm.py
 ```
 3. Select your difficulty
