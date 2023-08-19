@@ -1,4 +1,4 @@
-# IE616-Project - Three Men's Morris
+# IE616 - Three Men's Morris
 
 ### How to play:
 1. Clone the repo  
